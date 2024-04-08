@@ -1,0 +1,5 @@
+com/example/ecommver2/config/DatabaseConfig.class
+com/example/ecommver2/resources/ProductsResource.class
+com/example/ecommver2/MyResource.class
+com/example/ecommver2/dao/ProductDAO.class
+com/example/ecommver2/model/Product.class
